@@ -4,6 +4,7 @@ import DragonCurve from './DragonCurve';
 
 class App extends Component {
   render() {
+    console.log( "App.js" );
     return (
       <div>
         <DragonCurve />
