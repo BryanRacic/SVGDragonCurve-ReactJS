@@ -10,8 +10,13 @@ S_n0 = 1 (right turn)
 (S_n)' = the opposite and reversed S_n
 S_(n+1) = S_n + 1 + (S_n)'
 ```
+****Sources****
 
-Yarn Usage: 
+
++ [Dragon curves revisited - S. Tabachnikov∗](https://www.math.psu.edu/tabachni/prints/DragonCurves.pdf)
+
+
+**Yarn Usage:**
 ```
 $ yarn init 
 $ yarn create react-app appname
